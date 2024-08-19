@@ -9,6 +9,7 @@ This repository contains a list of papers I've read while studying Computer Visi
 # Intermediate
 1. Attention Is All You Need
 2. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+3. Explaining and Harnessing Adversarial Examples
 
 # Advanced
 1. Learning Transferable Visaul Models From Natural Language Supervision
