@@ -15,3 +15,4 @@ This repository contains a list of papers I've read while studying Computer Visi
 1. Learning Transferable Visaul Models From Natural Language Supervision
 2. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 3. 3D Gaussian Splatting for Real-Time Radiance Field Rendering
+4. Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving
