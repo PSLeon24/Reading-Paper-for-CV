@@ -1,4 +1,4 @@
-# Reading-Paper-for-CV
+# Reading Paper for Computer Vision
 This repository contains a list of papers I've read while studying Computer Vision during my Master's program.
 
 # Beginner
@@ -23,3 +23,5 @@ This repository contains a list of papers I've read while studying Computer Visi
 1. How to Backdoor Diffusion Models?
 2. Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving
 3. Deep Neural Network are Easily Fooled
+4. Intriguing Properties of Neural Networks
+5. How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses
