@@ -27,3 +27,4 @@ This repository contains a list of papers I've read while studying Computer Visi
 5. How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses
 6. Are Transformers More Robust Than CNNs?
 7. Robust Physical-World Attacks on Deep Learning Visual Classification
+8. Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems
