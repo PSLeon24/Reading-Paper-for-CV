@@ -28,3 +28,4 @@ This repository contains a list of papers I've read while studying Computer Visi
 6. Are Transformers More Robust Than CNNs?
 7. Robust Physical-World Attacks on Deep Learning Visual Classification
 8. Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems
+9. Restricted Black-Box Adversarial Attack Against DeepFake Face Swapping
