@@ -19,6 +19,7 @@ This repository contains a list of papers I've read while studying Computer Visi
 2. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 3. 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 4. Efficient Privacy-Preserving Visual Localization Using 3D Ray Clouds
+5. Denoising Diffusion Probabilistic Models
 
 ---
 # Trajectory Prediction
