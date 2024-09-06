@@ -40,6 +40,7 @@ This repository contains a list of papers I've read while studying Computer Visi
 13. Data-free Universal Adversarial Perturbation and Black-box Attack
 14. Delving into Transferable Adversarial Examples and Black-box Attacks
 15. Knowledge Distillation with Adversarial Samples Supporting Decision Boundary
+16. The Limitations of Deep Learning in Adversarial Settings
 
 # Survey Paper
 1. How Deep Learning Sees the World: A survey on Adversarial Attacks & Defenses
