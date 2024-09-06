@@ -44,6 +44,8 @@ This repository contains a list of papers I've read while studying Computer Visi
 17. An Efficient Pre-processing Method to Eliminate Adversarial Effects
 18. Deflecting Adversarial Attacks with Pixel Deflection
 19. Generative Adversarial Perturbations
+20. Towards Deep Learning Models Resistant to Adversarial Attacks
+21. Disrupting Image-Translation-Based DeepFake Algorithms with Adversarial Attacks
 
 # Survey Paper
 1. How Deep Learning Sees the World: A survey on Adversarial Attacks & Defenses
