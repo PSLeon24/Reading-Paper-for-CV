@@ -35,7 +35,10 @@ This repository contains a list of papers I've read while studying Computer Visi
 9. Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems
 10. Restricted Black-Box Adversarial Attack Against DeepFake Face Swapping
 11. Intriguing Properties of Modern GANs
-12. Data-free Universal Adversarial Perturbation and Black-box Attack
+12. Intriguing properties of synthetic images: from generative adversarial networks to diffusion models
+13. Data-free Universal Adversarial Perturbation and Black-box Attack
+14. Delving into Transferable Adversarial Examples and Black-box Attacks
+15. Knowledge Distillation with Adversarial Samples Supporting Decision Boundary
 
 # Survey Paper
 1. How Deep Learning Sees the World: A survey on Adversarial Attacks & Defenses
