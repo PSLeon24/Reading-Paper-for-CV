@@ -43,6 +43,7 @@ This repository contains a list of papers I've read while studying Computer Visi
 16. The Limitations of Deep Learning in Adversarial Settings
 17. An Efficient Pre-processing Method to Eliminate Adversarial Effects
 18. Deflecting Adversarial Attacks with Pixel Deflection
+19. Generative Adversarial Perturbations
 
 # Survey Paper
 1. How Deep Learning Sees the World: A survey on Adversarial Attacks & Defenses
