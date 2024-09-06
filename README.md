@@ -12,11 +12,13 @@ This repository contains a list of papers I've read while studying Computer Visi
 3. Explaining and Harnessing Adversarial Examples
    - Paper Review: https://psleon.tistory.com/244
    - Seminar: https://github.com/PSLeon24/Reading-Paper-for-CV/blob/main/Seminar/1st/Explaining-and-harnessing-adversarial-examples.pdf
+4. Distilling the Knowledge in a Neural Network
 
 # Advanced
 1. Learning Transferable Visaul Models From Natural Language Supervision
 2. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 3. 3D Gaussian Splatting for Real-Time Radiance Field Rendering
+4. Efficient Privacy-Preserving Visual Localization Using 3D Ray Clouds
 
 ---
 # Trajectory Prediction
@@ -26,8 +28,14 @@ This repository contains a list of papers I've read while studying Computer Visi
 2. Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving
 3. Deep Neural Network are Easily Fooled: High Confidence Predictions for Unrecognizable Images
 4. Intriguing Properties of Neural Networks
-5. How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses
-6. Are Transformers More Robust Than CNNs?
-7. Robust Physical-World Attacks on Deep Learning Visual Classification
-8. Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems
-9. Restricted Black-Box Adversarial Attack Against DeepFake Face Swapping
+5. Towards Evaluating the Robustness of Neural Networks
+6. How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses
+7. Are Transformers More Robust Than CNNs?
+8. Robust Physical-World Attacks on Deep Learning Visual Classification
+9. Disrupting Deepfakes: Adversarial Attacks Against Conditional Image Translation Networks and Facial Manipulation Systems
+10. Restricted Black-Box Adversarial Attack Against DeepFake Face Swapping
+11. Intriguing Properties of Modern GANs
+12. Data-free Universal Adversarial Perturbation and Black-box Attack
+
+# Survey Paper
+1. How Deep Learning Sees the World: A survey on Adversarial Attacks & Defenses
