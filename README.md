@@ -47,6 +47,8 @@ This repository contains a list of papers I've read while studying Computer Visi
 19. Generative Adversarial Perturbations
 20. Towards Deep Learning Models Resistant to Adversarial Attacks
 21. Disrupting Image-Translation-Based DeepFake Algorithms with Adversarial Attacks
+22. Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples
+23. Coexistence of Deepfake Defenses: Addressing the Poisoning Challenge
 
 # Survey Paper
 1. How Deep Learning Sees the World: A survey on Adversarial Attacks & Defenses
