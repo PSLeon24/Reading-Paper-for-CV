@@ -25,7 +25,7 @@ This repository contains a list of papers I've read while studying Computer Visi
 ---
 # Trajectory Prediction
 
-# Adversarial Backdoor Attack
+# Adversarial Attack
 1. How to Backdoor Diffusion Models?
 2. Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving
 3. Deep Neural Network are Easily Fooled: High Confidence Predictions for Unrecognizable Images
