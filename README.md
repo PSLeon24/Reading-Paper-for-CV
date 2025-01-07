@@ -1,10 +1,11 @@
-# Reading Paper for Computer Vision
+# Reading Paper for Computer Vision(Generative Models, Adversarial Attack)
 This repository contains a list of papers I've read while studying Computer Vision during my Master's program.
 
 # Beginner
 1. ImageNet Classification with Deep Convolutional Neural Networks
 2. Image Super-Resolution Using Deep Convolutional Networks
 3. Going deeper with convolutions
+4. Deep Residual Learning for Image Recognition
 
 # Intermediate
 1. Attention Is All You Need
@@ -21,11 +22,13 @@ This repository contains a list of papers I've read while studying Computer Visi
 4. Efficient Privacy-Preserving Visual Localization Using 3D Ray Clouds
 5. Auto-Encoding Variational Bayes : Variational Autoencoder
 6. Denoising Diffusion Probabilistic Models
+7. Denoising Diffusion Implicit Models
+8. High-Resolution Image Synthesis with Latent Diffusion Models
+9. Scalable Diffusion Models with Transformers (DiT)
 
 ---
-# Trajectory Prediction
 
-# Adversarial Attack
+# Adversarial Attack to Defend Against Malicious Deepfake Users
 1. How to Backdoor Diffusion Models?
 2. Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving
 3. Deep Neural Network are Easily Fooled: High Confidence Predictions for Unrecognizable Images
@@ -49,6 +52,8 @@ This repository contains a list of papers I've read while studying Computer Visi
 21. Disrupting Image-Translation-Based DeepFake Algorithms with Adversarial Attacks
 22. Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples
 23. Coexistence of Deepfake Defenses: Addressing the Poisoning Challenge
+24. Anti-DreamBooth: Protecting users from personalized text-to-image synthesis
+25. SimAC: A Simple Anti-Customization Method for Protecting Face Privacy against Text-to-Image Synthesis of Diffusion Models
 
 # Survey Paper
 1. How Deep Learning Sees the World: A survey on Adversarial Attacks & Defenses
