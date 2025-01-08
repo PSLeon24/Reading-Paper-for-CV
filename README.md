@@ -25,6 +25,7 @@ This repository contains a list of papers I've read while studying Computer Visi
 7. Denoising Diffusion Implicit Models
 8. High-Resolution Image Synthesis with Latent Diffusion Models
 9. Scalable Diffusion Models with Transformers (DiT)
+10. GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians
 
 ---
 
@@ -57,3 +58,4 @@ This repository contains a list of papers I've read while studying Computer Visi
 
 # Survey Paper
 1. How Deep Learning Sees the World: A survey on Adversarial Attacks & Defenses
+2. A Survey on Generative Diffusion Models
