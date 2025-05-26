@@ -14,6 +14,7 @@ This repository contains a list of papers I've read while studying Computer Visi
    - Paper Review: https://psleon.tistory.com/244
    - Seminar: https://github.com/PSLeon24/Reading-Paper-for-CV/blob/main/Seminar/1st/Explaining-and-harnessing-adversarial-examples.pdf
 4. Distilling the Knowledge in a Neural Network
+5. Exploring the Privacy Risks of Adversarial VR Game Design
 
 # Advanced
 1. Learning Transferable Visaul Models From Natural Language Supervision
@@ -56,6 +57,16 @@ This repository contains a list of papers I've read while studying Computer Visi
 24. Anti-DreamBooth: Protecting users from personalized text-to-image synthesis
 25. SimAC: A Simple Anti-Customization Method for Protecting Face Privacy against Text-to-Image Synthesis of Diffusion Models
 
+---
+
+# Image Restoration
+1. Residual Denoising Diffusion Models
+2. Deep Adversarial Decomposition: A Unified Framework for Separating Superimposed Images
+3. Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models
+4. Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models
+5. UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity
+6. AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion
+
 # Survey Paper
-1. How Deep Learning Sees the World: A survey on Adversarial Attacks & Defenses
+1. How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses
 2. A Survey on Generative Diffusion Models
